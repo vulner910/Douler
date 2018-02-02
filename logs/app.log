@@ -1,0 +1,617 @@
+2017-12-12 at 16:26:32 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-12 at 16:26:35 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-12 at 16:26:35 CST INFO  douler.Settlement 37 run - 处理BUY文件
+2017-12-12 at 16:26:35 CST INFO  douler.Settlement 39 run - 处理TRANSFER文件
+2017-12-12 at 16:26:35 CST INFO  douler.Settlement 41 run - 处理GIVE文件
+2017-12-12 at 16:26:35 CST INFO  douler.Settlement 43 run - 处理FREEZE文件
+2017-12-12 at 16:26:35 CST INFO  douler.Settlement 45 run - 处理UNFREEZE文件
+2017-12-12 at 16:26:35 CST INFO  douler.Settlement 47 run - 处理RECYLE文件
+2017-12-12 at 16:26:35 CST INFO  douler.Settlement 49 run - 处理PWD文件
+2017-12-12 at 16:26:35 CST INFO  douler.Settlement 53 run - 程序轮训第1次，结束。用时：0秒。
+2017-12-12 at 16:28:07 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-12 at 16:28:34 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-12 at 16:28:36 CST INFO  douler.Settlement 37 run - 处理BUY文件
+2017-12-12 at 16:28:36 CST INFO  douler.Settlement 39 run - 处理TRANSFER文件
+2017-12-12 at 16:28:36 CST INFO  douler.Settlement 41 run - 处理GIVE文件
+2017-12-12 at 16:28:36 CST INFO  douler.Settlement 43 run - 处理FREEZE文件
+2017-12-12 at 16:28:37 CST INFO  douler.Settlement 45 run - 处理UNFREEZE文件
+2017-12-12 at 16:28:37 CST INFO  douler.Settlement 47 run - 处理RECYLE文件
+2017-12-12 at 16:28:37 CST INFO  douler.Settlement 49 run - 处理PWD文件
+2017-12-12 at 16:28:38 CST INFO  douler.Settlement 53 run - 程序轮训第1次，结束。用时：4秒。
+2017-12-12 at 16:30:15 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-12 at 16:30:17 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-12 at 16:30:17 CST INFO  douler.Settlement 37 run - 处理BUY文件
+2017-12-12 at 16:30:17 CST INFO  douler.Settlement 39 run - 处理TRANSFER文件
+2017-12-12 at 16:30:17 CST INFO  douler.Settlement 41 run - 处理GIVE文件
+2017-12-12 at 16:30:17 CST INFO  douler.Settlement 43 run - 处理FREEZE文件
+2017-12-12 at 16:30:17 CST INFO  douler.Settlement 45 run - 处理UNFREEZE文件
+2017-12-12 at 16:30:17 CST INFO  douler.Settlement 47 run - 处理RECYLE文件
+2017-12-12 at 16:30:17 CST INFO  douler.Settlement 49 run - 处理PWD文件
+2017-12-12 at 16:30:17 CST INFO  douler.Settlement 53 run - 程序轮训第1次，结束。用时：0秒。
+2017-12-12 at 16:30:39 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-12 at 16:30:42 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-12 at 16:30:42 CST INFO  douler.Settlement 37 run - 处理BUY文件
+2017-12-12 at 16:30:42 CST INFO  douler.Settlement 39 run - 处理TRANSFER文件
+2017-12-12 at 16:30:42 CST INFO  douler.Settlement 41 run - 处理GIVE文件
+2017-12-12 at 16:30:42 CST INFO  douler.Settlement 43 run - 处理FREEZE文件
+2017-12-12 at 16:30:42 CST INFO  douler.Settlement 45 run - 处理UNFREEZE文件
+2017-12-12 at 16:30:42 CST INFO  douler.Settlement 47 run - 处理RECYLE文件
+2017-12-12 at 16:30:42 CST INFO  douler.Settlement 49 run - 处理PWD文件
+2017-12-12 at 16:30:42 CST INFO  douler.Settlement 53 run - 程序轮训第1次，结束。用时：0秒。
+2017-12-14 at 11:42:25 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 11:42:27 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 11:42:27 CST INFO  douler.Settlement 37 run - 处理BUY文件
+2017-12-14 at 11:42:27 CST INFO  douler.Settlement 39 run - 处理TRANSFER文件
+2017-12-14 at 11:42:27 CST INFO  douler.Settlement 41 run - 处理GIVE文件
+2017-12-14 at 11:42:27 CST INFO  douler.Settlement 43 run - 处理FREEZE文件
+2017-12-14 at 11:42:27 CST INFO  douler.Settlement 45 run - 处理UNFREEZE文件
+2017-12-14 at 11:42:27 CST INFO  douler.Settlement 47 run - 处理RECYLE文件
+2017-12-14 at 11:42:27 CST INFO  douler.Settlement 49 run - 处理PWD文件
+2017-12-14 at 11:42:27 CST INFO  douler.Settlement 53 run - 程序轮训第1次，结束。用时：0秒。
+2017-12-14 at 12:15:40 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:15:42 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:15:42 CST ERROR function.DoFiles 42 doMembers - member_20171213.txt:java.lang.NullPointerException
+2017-12-14 at 12:15:42 CST ERROR function.DoFiles 42 doMembers - member_20171214.txt:java.lang.NullPointerException
+2017-12-14 at 12:15:42 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:15:59 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:16:01 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:16:01 CST ERROR function.DoFiles 42 doMembers - member_20171213.txt:java.lang.NullPointerException
+2017-12-14 at 12:16:01 CST ERROR function.DoFiles 42 doMembers - member_20171214.txt:java.lang.NullPointerException
+2017-12-14 at 12:16:02 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:16:46 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:16:48 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:16:48 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:16:49 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:17:31 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:17:33 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:17:33 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:18:25 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:18:28 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:18:28 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:18:28 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:19:08 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:19:10 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:19:10 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:19:10 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:20:19 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:20:21 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:20:21 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:20:21 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:21:17 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:21:19 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:21:19 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:21:20 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:21:20 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:21:20 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:21:20 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:21:20 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:21:20 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:21:20 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:21:20 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:21:20 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:21:20 CST ERROR function.DoFiles 43 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:21:20 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:21:59 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:22:01 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:22:01 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:22:02 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:22:25 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:22:27 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:22:27 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:22:28 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:22:33 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:22:35 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:22:35 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:22:35 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:22:42 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:22:44 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:22:44 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:22:44 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:22:49 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:22:51 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:22:51 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:22:52 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:22:56 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:22:58 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:22:58 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:22:58 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:23:03 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:23:05 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:23:05 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:23:05 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:23:12 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:23:14 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:23:14 CST ERROR function.DoFiles 40 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:23:14 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:23:37 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:23:40 CST INFO  douler.Settlement 34 run - 处理MEMBERS文件
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(1	18842488303	def2b9985a7bc10ac4a1e9012cb387cf	阿斯顿发生	18842488303	2016-12-30 13:54:07	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(2	13332411374	0cfa20667c6a512ff96c2341959e75ea	测3	18624340369	2016-12-30 13:57:25	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(3	15241795282	71b3b26aaa319e0cdf6fdb8429c112b0	王蓉	15241795282	2016-12-30 14:00:13	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(4	15640504911	e10adc3949ba59abbe56e057f20f883e	梦多多	15640504911	2016-12-30 14:29:46	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(5	15840478927	96e79218965eb72c92a549dd5a330112	范大东	15840478927	2016-12-30 14:30:12	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(6	13019635349	e10adc3949ba59abbe56e057f20f883e	a	13019635349	2016-12-30 16:22:07	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(7	13478394129	860cf86fbfd0993587f1f28359470347		13478394129	2016-12-30 16:36:38	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(8	18624340369	0cfa20667c6a512ff96c2341959e75ea	刘大侠	18624340369	2017-01-06 13:56:10	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(9	15940239633	7df3f31a3671809a567c0f332a4aa7ed	na	13545454545	2017-01-10 20:26:12	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(10	18040046500	748865c84e68e4aca5f0d636106b1e9d		18040046500	2017-01-11 20:54:02	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(11	15940353492	e10adc3949ba59abbe56e057f20f883e		15940353492	2017-01-16 11:23:32	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(12	13998866937	e10adc3949ba59abbe56e057f20f883e		13998866937	2017-01-16 21:09:59	4	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(13	13190017691	25f9e794323b453885f5181f1b624d0b		13190017691	2017-01-16 21:10:31	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(14	15542277587	0cfa20667c6a512ff96c2341959e75ea	于笑昂	15542277587	2017-01-18 16:08:28	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(15	13166613623	e10adc3949ba59abbe56e057f20f883e		13166613623	2017-02-08 00:37:08	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(16	18768133935	06cabf9cb1b9da826472dcc16c4cf185		18768133935	2017-02-10 11:15:47	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(17	18842352010	0cfa20667c6a512ff96c2341959e75ea	亮亮	18625350369	2017-02-16 13:09:15	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(18	18842554007	70941ee304df49604186d6a0b1691c98		18842554007	2017-02-22 16:19:24	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(19	13352423188	d8578edf8458ce06fbc5bb76a58c5ca4		13352423188	2017-02-26 09:49:39	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(20	18576787408	d2d252773f5b1a8fafcfe781ca452cfc		18576787408	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(21	13080873906	10e026f7753773b5e293c7da175cefff		13080873906	2017-12-09 12:00:00	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(654	15009880965	09cf3d8b4e57eaceba5edccf725db0d0	王娜	15009880965	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(655	13190080048	e10adc3949ba59abbe56e057f20f883e	王丽	13190080048	2017-12-13 12:00:00	0	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(656	13190031396	75e266f182b4fa3625d4a4f4f779af54	王权林	13190031396	2017-12-13 12:00:00	648	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(657	13604135888	8de48731331df374499eb4ab38b9f3a5	王程	13604135888	2017-12-13 12:00:00	649	)
+2017-12-14 at 12:23:40 CST ERROR function.DoFiles 39 doMembers - while:java.lang.NullPointerException(658	15524305935	0c949f6a98abe4ef8a4678260c186d77	田品芝	15524305935	2017-12-13 12:00:00	650	)
+2017-12-14 at 12:23:40 CST ERROR douler.Settlement 60 run - 大循环错误：java.lang.NullPointerException
+2017-12-14 at 12:24:32 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:24:35 CST INFO  douler.Settlement 36 run - 处理MEMBERS文件
+2017-12-14 at 12:24:35 CST ERROR dao.CommonDao 105 doSqls - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'regtimerecommendid' in 'field list'
+2017-12-14 at 12:24:35 CST INFO  douler.Settlement 39 run - 处理BUY文件
+2017-12-14 at 12:24:35 CST INFO  douler.Settlement 41 run - 处理TRANSFER文件
+2017-12-14 at 12:24:35 CST INFO  douler.Settlement 43 run - 处理GIVE文件
+2017-12-14 at 12:24:35 CST INFO  douler.Settlement 45 run - 处理FREEZE文件
+2017-12-14 at 12:24:35 CST INFO  douler.Settlement 47 run - 处理UNFREEZE文件
+2017-12-14 at 12:24:35 CST INFO  douler.Settlement 49 run - 处理RECYLE文件
+2017-12-14 at 12:24:35 CST INFO  douler.Settlement 51 run - 处理PWD文件
+2017-12-14 at 12:24:35 CST INFO  douler.Settlement 55 run - 程序轮训第1次，结束。用时：0秒。
+2017-12-14 at 12:25:49 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-14 at 12:25:52 CST INFO  douler.Settlement 36 run - 处理MEMBERS文件
+2017-12-14 at 12:25:52 CST ERROR dao.CommonDao 105 doSqls - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1' for key 'PRIMARY'
+2017-12-14 at 12:25:52 CST INFO  douler.Settlement 39 run - 处理BUY文件
+2017-12-14 at 12:25:52 CST INFO  douler.Settlement 41 run - 处理TRANSFER文件
+2017-12-14 at 12:25:52 CST INFO  douler.Settlement 43 run - 处理GIVE文件
+2017-12-14 at 12:25:52 CST INFO  douler.Settlement 45 run - 处理FREEZE文件
+2017-12-14 at 12:25:52 CST INFO  douler.Settlement 47 run - 处理UNFREEZE文件
+2017-12-14 at 12:25:52 CST INFO  douler.Settlement 49 run - 处理RECYLE文件
+2017-12-14 at 12:25:52 CST INFO  douler.Settlement 51 run - 处理PWD文件
+2017-12-14 at 12:25:52 CST INFO  douler.Settlement 55 run - 程序轮训第1次，结束。用时：0秒。
+2017-12-16 at 11:45:26 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-16 at 11:45:29 CST INFO  douler.Settlement 35 run - 初始化配置信息
+2017-12-16 at 11:45:34 CST INFO  douler.Settlement 40 run - 处理MEMBERS文件
+2017-12-16 at 11:51:04 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-16 at 11:51:07 CST INFO  douler.Settlement 35 run - 初始化配置信息
+2017-12-16 at 11:51:08 CST INFO  douler.Settlement 40 run - 处理MEMBERS文件
+2017-12-16 at 11:51:51 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1' for key 'PRIMARY'
+2017-12-16 at 11:51:51 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '2' for key 'PRIMARY'
+2017-12-16 at 11:51:51 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '3' for key 'PRIMARY'
+2017-12-16 at 11:51:52 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '10' for key 'PRIMARY'
+2017-12-16 at 11:51:52 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '655' for key 'PRIMARY'
+2017-12-16 at 11:51:52 CST ERROR dao.CommonDao 145 doSqls - java.sql.SQLException: Can't call commit when autocommit=true
+2017-12-16 at 11:52:28 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-16 at 11:52:31 CST INFO  douler.Settlement 35 run - 初始化配置信息
+2017-12-16 at 11:52:35 CST INFO  douler.Settlement 40 run - 处理MEMBERS文件
+2017-12-16 at 11:53:09 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-16 at 11:53:11 CST INFO  douler.Settlement 35 run - 初始化配置信息
+2017-12-16 at 11:53:11 CST INFO  douler.Settlement 40 run - 处理MEMBERS文件
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '1' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '2' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '3' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '4' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '5' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '6' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '7' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '8' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '9' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '10' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '11' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '12' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '13' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '14' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '15' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '16' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '17' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '18' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '19' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '20' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '21' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '654' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '655' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '656' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '657' for key 'PRIMARY'
+2017-12-16 at 11:53:14 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '658' for key 'PRIMARY'
+2017-12-16 at 11:53:20 CST INFO  douler.Settlement 43 run - 处理BUY文件
+2017-12-16 at 12:00:26 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-16 at 12:00:29 CST INFO  douler.Settlement 35 run - 初始化配置信息
+2017-12-16 at 12:00:29 CST INFO  douler.Settlement 40 run - 处理MEMBERS文件
+2017-12-16 at 12:00:33 CST INFO  douler.Settlement 43 run - 处理BUY文件
+2017-12-16 at 12:09:17 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'ï»¿618' in 'field list'
+2017-12-16 at 12:23:44 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-16 at 12:23:47 CST INFO  douler.Settlement 35 run - 初始化配置信息
+2017-12-16 at 12:23:47 CST INFO  douler.Settlement 40 run - 处理MEMBERS文件
+2017-12-16 at 12:23:49 CST INFO  douler.Settlement 43 run - 处理BUY文件
+2017-12-16 at 12:23:52 CST INFO  douler.Settlement 46 run - 处理TRANSFER文件
+2017-12-16 at 12:26:16 CST INFO  douler.Settlement 49 run - 处理GIVE文件
+2017-12-16 at 12:26:27 CST INFO  douler.Settlement 52 run - 处理FREEZE文件
+2017-12-16 at 12:27:42 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'freeze' in 'field list'
+2017-12-16 at 12:28:53 CST INFO  douler.Settlement 55 run - 处理UNFREEZE文件
+2017-12-16 at 12:28:58 CST INFO  douler.Settlement 58 run - 处理RECYLE文件
+2017-12-16 at 12:29:00 CST INFO  douler.Settlement 61 run - 处理PWD文件
+2017-12-16 at 12:30:46 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-16 at 12:30:48 CST INFO  douler.Settlement 35 run - 初始化配置信息
+2017-12-16 at 12:30:48 CST INFO  douler.Settlement 40 run - 处理MEMBERS文件
+2017-12-16 at 12:30:48 CST INFO  douler.Settlement 43 run - 处理BUY文件
+2017-12-16 at 12:30:54 CST INFO  douler.Settlement 46 run - 处理TRANSFER文件
+2017-12-16 at 12:30:55 CST INFO  douler.Settlement 49 run - 处理GIVE文件
+2017-12-16 at 12:30:56 CST INFO  douler.Settlement 52 run - 处理FREEZE文件
+2017-12-16 at 12:30:56 CST INFO  douler.Settlement 55 run - 处理UNFREEZE文件
+2017-12-16 at 12:31:13 CST INFO  douler.Settlement 58 run - 处理RECYLE文件
+2017-12-16 at 12:31:17 CST INFO  douler.Settlement 61 run - 处理PWD文件
+2017-12-16 at 12:36:05 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '726' for key 'PRIMARY':
+2017-12-16 at 12:36:05 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '726' for key 'PRIMARY':
+2017-12-16 at 12:36:05 CST ERROR dao.CommonDao 134 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '726' for key 'PRIMARY':
+2017-12-16 at 12:38:23 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-16 at 12:38:25 CST INFO  douler.Settlement 35 run - 初始化配置信息
+2017-12-16 at 12:38:25 CST INFO  douler.Settlement 40 run - 处理MEMBERS文件
+2017-12-16 at 12:38:25 CST INFO  douler.Settlement 43 run - 处理BUY文件
+2017-12-16 at 12:38:25 CST ERROR dao.CommonDao 135 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'ï»¿618' in 'field list':insert into ims_xiangyun_game_tree(id,`type`,ownerid,treeYield,treeLevel,treeGrown,treeTotal,fertilize) values('2017120201-A970002',2,﻿618,27300.0,0,0,4320,0)
+2017-12-16 at 12:38:26 CST INFO  douler.Settlement 46 run - 处理TRANSFER文件
+2017-12-16 at 12:38:26 CST INFO  douler.Settlement 49 run - 处理GIVE文件
+2017-12-16 at 12:38:26 CST INFO  douler.Settlement 52 run - 处理FREEZE文件
+2017-12-16 at 12:38:26 CST INFO  douler.Settlement 55 run - 处理UNFREEZE文件
+2017-12-16 at 12:38:26 CST INFO  douler.Settlement 58 run - 处理RECYLE文件
+2017-12-16 at 12:38:27 CST INFO  douler.Settlement 61 run - 处理PWD文件
+2017-12-16 at 12:38:30 CST ERROR dao.CommonDao 135 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '726' for key 'PRIMARY':insert into ims_xiangyun_game_pwd values(726,'e10adc3949ba59abbe56e057f20f883e','2017-12-14 10:36:33')
+2017-12-16 at 12:38:30 CST ERROR dao.CommonDao 135 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '726' for key 'PRIMARY':insert into ims_xiangyun_game_pwd values(726,'e10adc3949ba59abbe56e057f20f883e','2017-12-14 10:37:09')
+2017-12-16 at 12:38:30 CST ERROR dao.CommonDao 135 doSqls - doSqls.error:com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '726' for key 'PRIMARY':insert into ims_xiangyun_game_pwd values(726,'e10adc3949ba59abbe56e057f20f883e','2017-12-14 10:39:07')
+2017-12-16 at 12:38:30 CST INFO  douler.Settlement 65 run - 程序轮训第1次，结束。用时：4秒。
+2017-12-16 at 12:40:09 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-16 at 12:40:12 CST INFO  douler.Settlement 35 run - 初始化配置信息
+2017-12-16 at 12:40:12 CST INFO  douler.Settlement 40 run - 处理MEMBERS文件
+2017-12-16 at 12:40:12 CST INFO  douler.Settlement 43 run - 处理BUY文件
+2017-12-16 at 12:40:12 CST INFO  douler.Settlement 46 run - 处理TRANSFER文件
+2017-12-16 at 12:40:12 CST INFO  douler.Settlement 49 run - 处理GIVE文件
+2017-12-16 at 12:40:12 CST INFO  douler.Settlement 52 run - 处理FREEZE文件
+2017-12-16 at 12:40:12 CST INFO  douler.Settlement 55 run - 处理UNFREEZE文件
+2017-12-16 at 12:40:12 CST INFO  douler.Settlement 58 run - 处理RECYLE文件
+2017-12-16 at 12:40:12 CST INFO  douler.Settlement 61 run - 处理PWD文件
+2017-12-16 at 12:40:49 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-16 at 12:40:51 CST INFO  douler.Settlement 35 run - 初始化配置信息
+2017-12-16 at 12:40:52 CST INFO  douler.Settlement 40 run - 处理MEMBERS文件
+2017-12-16 at 12:40:52 CST INFO  douler.Settlement 43 run - 处理BUY文件
+2017-12-16 at 12:40:52 CST INFO  douler.Settlement 46 run - 处理TRANSFER文件
+2017-12-16 at 12:40:52 CST INFO  douler.Settlement 49 run - 处理GIVE文件
+2017-12-16 at 12:40:52 CST INFO  douler.Settlement 52 run - 处理FREEZE文件
+2017-12-16 at 12:40:52 CST INFO  douler.Settlement 55 run - 处理UNFREEZE文件
+2017-12-16 at 12:40:52 CST INFO  douler.Settlement 58 run - 处理RECYLE文件
+2017-12-16 at 12:40:52 CST INFO  douler.Settlement 61 run - 处理PWD文件
+2017-12-16 at 12:40:54 CST INFO  douler.Settlement 65 run - 程序轮训第1次，结束。用时：606秒。
+2017-12-16 at 12:42:06 CST INFO  douler.Main 26 main - 程序启动，当前版本：1711101321
+2017-12-16 at 12:42:08 CST INFO  douler.Settlement 35 run - 初始化配置信息
+2017-12-16 at 12:42:09 CST INFO  douler.Settlement 40 run - 处理MEMBERS文件
+2017-12-16 at 12:42:09 CST INFO  douler.Settlement 43 run - 处理BUY文件
+2017-12-16 at 12:42:09 CST INFO  douler.Settlement 46 run - 处理TRANSFER文件
+2017-12-16 at 12:42:09 CST INFO  douler.Settlement 49 run - 处理GIVE文件
+2017-12-16 at 12:42:09 CST INFO  douler.Settlement 52 run - 处理FREEZE文件
+2017-12-16 at 12:42:09 CST INFO  douler.Settlement 55 run - 处理UNFREEZE文件
+2017-12-16 at 12:42:09 CST INFO  douler.Settlement 58 run - 处理RECYLE文件
+2017-12-16 at 12:42:09 CST INFO  douler.Settlement 61 run - 处理PWD文件
+2017-12-16 at 12:43:16 CST INFO  douler.Settlement 65 run - 程序轮训第1次，结束。用时：67秒。
+2017-12-18 at 15:39:53 CST ERROR function.DoFiles 166 doTransferOrGive - doMembers:java.lang.NullPointerException
+2017-12-18 at 15:40:15 CST ERROR dao.CommonDao 147 doSqls - org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.)
+2017-12-18 at 15:46:21 CST ERROR function.DoFiles 154 doTransferOrGive - while:java.lang.NullPointerException(586	2017092700-B380002	72	2017070800-A154072	会员产品第一期	床位转让	2017-12-13 12:00:00	)
